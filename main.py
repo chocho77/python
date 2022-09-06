@@ -1,4 +1,5 @@
-name,age = "Chavdar", 44
+name,age, country = "Chavdar", 44, "Bulgaria"
 print(name)
 print(age)
+print(country)
 
